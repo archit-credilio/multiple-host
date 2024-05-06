@@ -1,0 +1,8 @@
+[[redirects]]
+  from = "pink/*"
+  to = "pink/index.html"
+  status = 200
+[[redirects]]
+  from = "/*"
+  to = "white/index.html"
+  status = 200
